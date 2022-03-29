@@ -1,0 +1,17 @@
+@keyframes marble-hit-effect {
+	to {
+		background-position: 0 -2233px;
+	}
+}
+
+@keyframes star_flash {
+	to {
+		background-position: 0 -2280px;
+	}
+}
+
+@keyframes star-cursor {
+	to {
+		background-position: 0 -3822px;
+	}
+}

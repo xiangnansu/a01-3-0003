@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 145 143"
+   id="svg36"
+   sodipodi:docname="102.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs40" />
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.538462"
+     inkscape:cx="80.682229"
+     inkscape:cy="3.5436747"
+     inkscape:window-width="3440"
+     inkscape:window-height="1330"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g34" />
+  <g
+     transform="translate(0,2.8625)"
+     id="g34"
+     inkscape:groupmode="layer">
+    <g
+       transform="translate(0.95,2.225)"
+       id="g22">
+      <path
+         d="m 122.1,113.6 q 21,4 21,9.7 0,5.7 -21,9.7 -20.95,4.05 -50.55,4.05 -29.65,0 -50.6,-4.05 Q 0,129 0,123.3 q 0,-5.7 20.95,-9.7 20.95,-4 50.6,-4 29.6,0 50.55,4"
+         fill-opacity="0.38824"
+         fill-rule="evenodd"
+         id="path2" />
+      <path
+         d="m 5.55,115.7 q 0,-27.35 19.3,-46.65 19.35,-19.3 46.65,-19.3 27.35,0 46.6,19.3 19.35,19.3 19.35,46.65 0,4.35 -0.5,8.55 -64.5,16.8 -130.9,-0.15 -0.5,-4.15 -0.5,-8.4"
+         fill="#ff6600"
+         fill-rule="evenodd"
+         id="path4" />
+      <path
+         d="m 5.55,115.7 q 0,-27.35 19.3,-46.65 19.35,-19.3 46.65,-19.3 27.35,0 46.6,19.3 19.35,19.3 19.35,46.65 0,4.35 -0.5,8.55 -64.5,16.8 -130.9,-0.15 -0.5,-4.15 -0.5,-8.4 z"
+         fill="none"
+         stroke="#bf4d00"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="3"
+         id="path6" />
+      <path
+         d="M 13.1,112.9 Q 13.05,88.25 30.5,70.8 44.4,56.95 62.9,54.15 q -9.1,4.3 -16.75,11.9 -17.4,17.45 -17.4,42.05 0,3.9 0.45,7.55 51.85,13.3 102.45,3.7 l -0.15,1.2 q -58.1,15.2 -117.95,-0.1 -0.45,-3.7 -0.45,-7.55"
+         fill="#ffffff"
+         fill-opacity="0.25882"
+         fill-rule="evenodd"
+         id="path8" />
+      <path
+         d="m 89.85,54.3 q 5.9,1.3 5.9,3.2 0,1.85 -5.9,3.2 Q 84,62 75.75,62 q -8.3,0 -14.15,-1.3 -5.85,-1.35 -5.85,-3.2 0,-1.9 5.85,-3.2 5.85,-1.35 14.15,-1.35 8.25,0 14.1,1.35"
+         fill-opacity="0.38824"
+         fill-rule="evenodd"
+         id="path10" />
+      <path
+         d="m 87.3,57.85 q -15.35,6.7 -30.7,0 L 50.25,5.3 H 92.8 l -5.5,52.55"
+         fill="#ff3300"
+         fill-rule="evenodd"
+         id="path12" />
+      <path
+         d="m 87.3,57.85 q -15.35,6.7 -30.7,0 L 50.25,5.3 H 92.8 Z"
+         fill="none"
+         stroke="#bf4d00"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="3"
+         id="path14" />
+      <path
+         d="M 56.45,8.3 Q 50.2,6.9 50.2,4.9 50.2,2.85 56.45,1.4 62.7,0 71.55,0 80.4,0 86.6,1.4 q 6.25,1.45 6.25,3.5 0,2 -6.25,3.4 -6.2,1.45 -15.05,1.45 -8.85,0 -15.1,-1.45"
+         fill="#bf2600"
+         fill-rule="evenodd"
+         id="path16" />
+      <path
+         d="M 56.45,8.3 Q 50.2,6.9 50.2,4.9 50.2,2.85 56.45,1.4 62.7,0 71.55,0 80.4,0 86.6,1.4 q 6.25,1.45 6.25,3.5 0,2 -6.25,3.4 -6.2,1.45 -15.05,1.45 -8.85,0 -15.1,-1.45 z"
+         fill="none"
+         stroke="#bf4d00"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="3"
+         id="path18" />
+      <path
+         d="m 84.2,55.25 q -12.55,5.45 -25.05,0 L 53.95,12.4 h 4.15 l 4.8,40.9 q 10.7,4.65 21.4,1.35 l -0.1,0.6"
+         fill="#ffffff"
+         fill-opacity="0.25098"
+         fill-rule="evenodd"
+         id="path20" />
+    </g>
+    <g
+       transform="matrix(0.77525,0,0,1.0255,62.522,-1.9598125)"
+       id="g28">
+      <path
+         d="m 23.562,5.625 h -21.1 q -2.45,-2.1 0,-4.25 h 21.1 q 2.4,2.15 0,4.25"
+         fill="#990000"
+         fill-rule="evenodd"
+         id="path24" />
+      <path
+         d="m 23.562,5.625 h -21.1 q -2.45,-2.1 0,-4.25 h 21.1 q 2.4,2.15 0,4.25 z"
+         fill="none"
+         stroke="#ae4600"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path26" />
+    </g>
+    <g
+       transform="matrix(1,0,0,0.72463,53.553,0.74285)"
+       id="g32">
+      <path
+         d="M 32.4,9.4 Q 26.85,11 19,11 11.15,11 5.55,9.4 0,7.75 0,5.5 0,3.2 5.55,1.6 11.15,0 19,0 26.85,0 32.4,1.6 38,3.2 38,5.5 38,7.75 32.4,9.4"
+         fill-opacity="0.43922"
+         fill-rule="evenodd"
+         id="path30" />
+    </g>
+  </g>
+</svg>
